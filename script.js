@@ -101,4 +101,5 @@ function redirectToWhitepaper() {
     // Replace with your actual whitepaper URL
     const WHITEPAPER_URL = 'https://your-whitepaper-url.com';
     window.open(WHITEPAPER_URL, '_blank');
+    }
 }
